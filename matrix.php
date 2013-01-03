@@ -1,4 +1,4 @@
-<HTML><HEAD><TITLE>matrix.php</TITLE></HEAD><BODY BGCOLOR=white>
+<HTML><HEAD><TITLE>matrix.php</TITLE></HEAD><BODY BGCOLOR=Grey>
 <PRE>
 &lt;?php
 <font color=darkgreen>/*
